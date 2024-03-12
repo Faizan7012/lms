@@ -54,11 +54,9 @@
 
 
 <div align="left">
-  <img marginBottom='20px' src='https://i.ibb.co/3YHphZp/Screenshot-293.png' alt='1' /><br />
-  <img src='https://i.ibb.co/SBV9KF4/Screenshot-294.png' alt='2' /><br />
-  <img src='https://i.ibb.co/92j1vSq/Screenshot-295.png' alt='3' /><br />
-  <img src='https://i.ibb.co/jGZCzsb/Screenshot-297.png' alt='4' /><br />
-  <img src='https://i.ibb.co/HT7N2fc/Screenshot-298.png' alt='5' /><br />
+  <img src='https://i.ibb.co/qWXxMDk/Screenshot-302.png' alt='1' /><br />
+  <img src='https://i.ibb.co/n06hn3V/Screenshot-303.png' alt='2' /><br />
+  <img src='https://i.ibb.co/3y3QSgg/Screenshot-304.png' alt='3' /><br />
 </div>
 
       
