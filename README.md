@@ -16,14 +16,7 @@
   <a href="https://luxury-lollipop-7ac891.netlify.app/">
     <img src="https://readme-typing-svg.demolab.com/?lines=EduHub!; ..... 👨🏻‍💻; Through%20this%20App%20%20!&font=Fira%20Code&center=true&width=440&height=45&color=#37bcf7&vCenter=true&size=22&pause=1000"></a>
 </p>
-Working Functionality
-<ul>
-    <li>User Authentication: Implement authentication for both admin and student users, ensuring secure access to the application.</li>
-    <li>Admin Control Panel: Provide admin users with a dedicated control panel to manage users, data, and application settings.</li>
-    <li>Student Dashboard: Create a user-friendly dashboard for students to access relevant information and perform CRUD operations on their data.</li>
-    <li>CRUD Operations: Enable both admin and student users to perform Create, Read, Update, and Delete operations on various data entities within the application.</li>
-    <li>Smooth UI Design: Implement an intuitive and visually appealing user interface to enhance user experience and ensure smooth navigation throughout the application.</li>
-</ul>
+
 
 <h2 align="left"><i>Tech Stack Used</i></h2>
 <div align="left">
@@ -40,13 +33,11 @@ Working Functionality
 
 <h2 align="left"><i>Working Functionalities</i></h2>
 <ul>
-  <li>
-    Real-time Data Updates: Receive continuous updates on cryptocurrency prices and exchange rates from various exchanges to ensure you have the most current information available.
-  </li>
-  <li>Advanced Search Functionality: Utilize a powerful search feature to quickly find specific cryptocurrencies by name or symbol.</li>
-  <li>Intuitive Navigation: Navigate seamlessly through the app with a user-friendly interface, allowing for easy access to different features and sections.</li>
-  <li>Smooth User Interface: Enjoy a visually appealing and responsive user interface designed for optimal performance and smooth interaction.</li>
-  <li>Interactive Charts: Analyze cryptocurrency price movements with interactive charts featuring various timeframes and indicators for in-depth analysis.</li>
+    <li>User Authentication: Implement authentication for both admin and student users, ensuring secure access to the application.</li>
+    <li>Admin Control Panel: Provide admin users with a dedicated control panel to manage users, data, and application settings.</li>
+    <li>Student Dashboard: Create a user-friendly dashboard for students to access relevant information and perform CRUD operations on their data.</li>
+    <li>CRUD Operations: Enable both admin and student users to perform Create, Read, Update, and Delete operations on various data entities within the application.</li>
+    <li>Smooth UI Design: Implement an intuitive and visually appealing user interface to enhance user experience and ensure smooth navigation throughout the application.</li>
 </ul>
 
 
